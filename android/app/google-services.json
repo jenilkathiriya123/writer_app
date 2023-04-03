@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "836271460238",
+    "project_id": "bookapp-389b2",
+    "storage_bucket": "bookapp-389b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836271460238:android:d09f0ad16c2a13e079dedf",
+        "android_client_info": {
+          "package_name": "com.jenil02.pr8_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836271460238-r5o60fh6k3dc67dcko8d0ak14a21d45a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jenil02.pr8_2",
+            "certificate_hash": "a6544874efe47481b7150c1efd9f78efd7c86910"
+          }
+        },
+        {
+          "client_id": "836271460238-j2uuui287bun92g0v509lmcmblgi52vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWdRMt7sNWG7YrbUlIbUIdmUOVsYPidcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836271460238-j2uuui287bun92g0v509lmcmblgi52vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
